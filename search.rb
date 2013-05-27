@@ -47,4 +47,3 @@ module Search
   end
 
 end
-Search::runApp
